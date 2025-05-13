@@ -1,6 +1,6 @@
 # xBoard News Feed Website
 
-### xBoard is a News Feed Website which features the latest news for selected topics from Flipboard.
+### xBoard is a News Feed Website which features the latest news for selected topics from different other websites.
 
 #### Project Link ------------  (https://xboard-news-feed-website.vercel.app/)
 
