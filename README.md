@@ -1,4 +1,4 @@
-# xboard-news_feed_website
+# xBoard News Feed Website
 
 ### XBoard is a News Feed website that will feature the latest news for select topics, from Flipboard.
 
