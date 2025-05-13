@@ -1,14 +1,13 @@
 # xBoard News Feed Website
 
-### xBoard is a News Feed Website which features the latest news for selected topics from different other websites.
+### xBoard is a News Feed website that will feature the latest news for select topics, from Flipboard.
 
 #### Project Link ------------  (https://xboard-news-feed-website.vercel.app/)
 
-#### Features includes:
-- Browse news articles from multiple sources
-- Customizable news categories
-- Search for specific topics or keywords
-- Responsive design for seamless user experience on all devices
+#### During the building of this project:
+- Built XBoard using HTML, CSS, Bootstrap and JavaScript from scratch
+- Used Accordions and Image Carousel to improve UI
+- Fetched news content from flipboard's RSS feed using REST API
 
 List of Languages that were used to built this project:
 - HTML
