@@ -9,14 +9,8 @@
 #### During the building of this project:
 - Built XBoard using HTML, CSS, Bootstrap and JavaScript from scratch
 - Used Accordions and Image Carousel to improve UI
-- Fetched news content from flipboard's RSS feed using REST API
-
-
-
-#### While building this Buildout, the developer:
-- Understood the application requirements and implemented the project from scratch.
-- Tested the implementation to ensure correctness and responsiveness across different devices.
 - Made use of CSS Flexbox and CSS Grids to create a visually appealing layout.
+- Fetched news content from flipboard's RSS feed using REST API
 
 List of Languages that were used to built this project:
 - HTML
